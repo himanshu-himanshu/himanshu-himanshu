@@ -23,7 +23,7 @@
 <hr>
 <h3>📫 How to reach me: </h3>
 
-<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src=”" alt=”icon | LinkedIn” width=”21px”/></a>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
