@@ -23,7 +23,9 @@
 <hr>
 <h3>📫 How to reach me: </h3>
 
-<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src=”" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src="https://github.com/himanshu-himanshu/himanshu-himanshu/blob/main/linkedin.png" width="30px"/></a>
+<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src="https://github.com/himanshu-himanshu/himanshu-himanshu/blob/main/linkedin.png" width="30px"/></a>
+<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src="https://github.com/himanshu-himanshu/himanshu-himanshu/blob/main/linkedin.png" width="30px"/></a>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
