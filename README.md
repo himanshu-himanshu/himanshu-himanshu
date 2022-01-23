@@ -9,7 +9,7 @@
 
 <h3>:rocket: I’m currently working on: </h3>
 
-- Building my github repositorie
+- Building my github repositories
 - Developing projects for my own
 - My Front-end Skills (CSS and SASS)
 
