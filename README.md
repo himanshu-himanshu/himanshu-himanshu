@@ -11,7 +11,8 @@
 
 - Building my github repositories
 - Developing projects for my own
-- My Front-end Skills (CSS and SASS)
+- My designing Skills (CSS and SASS)
+- Backend skills
 
 <hr>
 
