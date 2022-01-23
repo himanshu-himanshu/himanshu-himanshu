@@ -3,7 +3,8 @@
 #### ```<h1>     I'm a Front-End Web Developer 💙 becoming a Full-Stack Web Developer Soon... ✌️ </h1>```
 
 <hr>
-<p>I love doing creative tasks and the process of developing websites, and to learn different techlogoies as to broden my horizon :fire: </p>
+<p>I love doing creative tasks and the process of developing websites, and to learn different techlogoies as to broden my horizon. :fire: </p>
+<p>Currently a fresher who is looking for the opportunities to give a start to my carrier.</p>
 <hr>
 
 <h3>:rocket: I’m currently working on: </h3>
