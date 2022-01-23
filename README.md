@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**himanshu-himanshu/himanshu-himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center" text="red">Hi there, I'm Himanshu 👋<p>
+#### ```<h1>     I'm a Front-End Web Developer 💙 becoming a Full-Stack Web Developer Soon... ✌️ </h1>```
 
-Here are some ideas to get you started:
+<hr>
+<p>I love doing creative tasks and the process of developing websites, and to learn different techlogoies as to broden my horizon :fire: </p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h3>:rocket: I’m currently working on: </h3>
+
+- Building my github repositorie
+- Developing projects for my own
+- My Front-end Skills (CSS and SASS)
+
+<hr>
+
+<h3>🌱 I’m currently learning: </h3>
+
+- Reactjs
+- Redux
+- Firebase
+- Git
+<hr>
+<h3>📫 How to reach me: </h3>
+
+<a href="https://www.linkedin.com/in/himanshu-himanshu-154569160/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
