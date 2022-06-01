@@ -1,5 +1,5 @@
 
-# <p align="center" text="red">Hi there, I'm Himanshu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"><p>
+# <p align="center" text="red">Hi there, I'm Himanshu<p>
 #### ```<h1>     I'm a Front-End Web Developer 💙 becoming a Full-Stack Web Developer Soon... ✌️ </h1>```
 
 <hr>
