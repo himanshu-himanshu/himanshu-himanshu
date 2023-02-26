@@ -1,6 +1,6 @@
 
 # <p align="center" text="red">Hi there, I'm Himanshu<p>
-#### ```<h1>     I'm a Front-End Web Developer 💙 becoming a Full-Stack Web Developer Soon... ✌️ </h1>```
+#### ```<h1>     I'm a Front-End Web Developer 💙 becoming Full-Stack Web Developer Soon... ✌️ </h1>```
 
 <hr>
 <p>I love doing creative tasks and the process of developing websites, and to learn different techlogoies as to broden my horizon. :fire: </p>
@@ -11,16 +11,16 @@
 
 - Building my github repositories
 - Developing projects for my own
-- My designing Skills (CSS and SASS)
+- Learning React Techs
 - Backend skills
 
 <hr>
 
 <h3>🌱 I’m currently learning: </h3>
 
-- Reactjs
-- Redux
-- Firebase
+- NextJs
+- NodeJs
+- MongoDB
 - Git
 <hr>
 
